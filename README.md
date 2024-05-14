@@ -1,18 +1,27 @@
-## Getting Started
+## Microlearning Session
+Topic: Java8 Datetime API <br/>
+Date: 4 Sep 2023 <br/>
+Repo contains: 
+* Full PDF [slides](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/Microlearning%20Java%208%20DateTime.pdf) 
+* New Datetime library [demo files + coding solutions](https://github.com/salisale/Microlearning-Java8-datetime/tree/master/src)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0001.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0002.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0003.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0004.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0005.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0006.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0007.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0008.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0009.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0010.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0011.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0012.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0013.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0014.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0015.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0016.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0017.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0018.jpg)
+![slide1](https://github.com/salisale/Microlearning-Java8-datetime/blob/master/slides/Microlearning%20Java%208%20DateTime_page-0019.jpg)
